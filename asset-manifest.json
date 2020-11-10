@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TreeComponent/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/TreeComponent/static/js/main.ea2b1008.chunk.js",
+    "main.js.map": "/TreeComponent/static/js/main.ea2b1008.chunk.js.map",
+    "runtime-main.js": "/TreeComponent/static/js/runtime-main.4157fe17.js",
+    "runtime-main.js.map": "/TreeComponent/static/js/runtime-main.4157fe17.js.map",
+    "static/js/2.1507f217.chunk.js": "/TreeComponent/static/js/2.1507f217.chunk.js",
+    "static/js/2.1507f217.chunk.js.map": "/TreeComponent/static/js/2.1507f217.chunk.js.map",
+    "static/js/3.62170799.chunk.js": "/TreeComponent/static/js/3.62170799.chunk.js",
+    "static/js/3.62170799.chunk.js.map": "/TreeComponent/static/js/3.62170799.chunk.js.map",
+    "index.html": "/TreeComponent/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/TreeComponent/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.1507f217.chunk.js.LICENSE.txt": "/TreeComponent/static/js/2.1507f217.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4157fe17.js",
+    "static/js/2.1507f217.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.ea2b1008.chunk.js"
+  ]
+}
